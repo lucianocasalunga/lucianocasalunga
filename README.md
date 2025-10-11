@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.nostr.build/7YQtTdAA4R4VWQIe.jpg" alt="Banner Luciano Casalunga - LiberNet" width="100%" style="border-radius:12px; margin-bottom:40px;">
+  <img src="https://i.nostr.build/OIFE9ommxVaEn5xL.jpg" alt="Banner Dark Luciano Casalunga - LiberNet" width="100%" style="border-radius:12px; margin-bottom:40px;">
 </p>
 
 <h1 align="center">👋 Olá, eu sou <strong>Luciano Casalunga</strong></h1>
