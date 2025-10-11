@@ -1,26 +1,36 @@
-# 👋 Olá, eu sou **Luciano Casalunga**
+<p align="center">
+  <img src="https://i.nostr.build/7YQtTdAA4R4VWQIe.jpg" alt="Banner Luciano Casalunga - LiberNet" width="100%" style="border-radius:12px; margin-bottom:40px;">
+</p>
 
-### 🧠 Analista de Sistemas | Administrador de Infraestrutura | Criador do Ecossistema **LiberNet**
+<h1 align="center">👋 Olá, eu sou <strong>Luciano Casalunga</strong></h1>
 
-Transformo ideias em sistemas reais — da nuvem ao código.  
-Crio e mantenho um ecossistema livre, descentralizado e resiliente:  
-**LiberNet • CloudMor • Relay • LiberMedia • NIS Token**  
+<h3 align="center">🧠 Analista de Sistemas | Administrador de Infraestrutura | Criador do Ecossistema <strong>LiberNet</strong></h3>
+
+<p align="center">
+Transformo ideias em sistemas reais — da nuvem ao código.<br>
+Crio e mantenho um ecossistema livre, descentralizado e resiliente:<br>
+<strong>LiberNet • CloudMor • Relay • LiberMedia • NIS Token</strong>
+</p>
 
 ---
 
 ### ⚙️ **Stacks & Skills**
-![Linux](https://img.shields.io/badge/Linux-✔️-blue)
-![Docker](https://img.shields.io/badge/Docker-✔️-blue)
-![Caddy](https://img.shields.io/badge/Caddy-✔️-green)
-![Nextcloud](https://img.shields.io/badge/Nextcloud-✔️-blue)
-![Nostr](https://img.shields.io/badge/Nostr-✔️-purple)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-✔️-orange)
-![Python](https://img.shields.io/badge/Python-✔️-yellow)
-![Bash](https://img.shields.io/badge/Bash%20Scripts-✔️-black)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-✔️-blue">
+  <img src="https://img.shields.io/badge/Docker-✔️-blue">
+  <img src="https://img.shields.io/badge/Caddy-✔️-green">
+  <img src="https://img.shields.io/badge/Nextcloud-✔️-blue">
+  <img src="https://img.shields.io/badge/Nostr-✔️-purple">
+  <img src="https://img.shields.io/badge/Cloudflare-✔️-orange">
+  <img src="https://img.shields.io/badge/Python-✔️-yellow">
+  <img src="https://img.shields.io/badge/Bash%20Scripts-✔️-black">
+</p>
 
 ---
 
 ### ☁️ **Projetos em destaque**
+
 | Projeto | Descrição | Status |
 |----------|------------|--------|
 | **LiberNet** | Núcleo do ecossistema de comunicação livre e descentralizada | 🌐 Online |
@@ -32,20 +42,27 @@ Crio e mantenho um ecossistema livre, descentralizado e resiliente:
 ---
 
 ### 🖥️ **Estatísticas do GitHub**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucianocasalunga&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucianocasalunga&layout=compact&theme=tokyonight)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucianocasalunga&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianocasalunga&layout=compact&theme=tokyonight" alt="Top Langs">
+</p>
 
 ---
 
 ### 🌍 **Conecte-se comigo**
-[![LiberNet](https://img.shields.io/badge/LiberNet-cloud.libernet.app-blue)](https://cloud.libernet.app)  
-[![Nostr](https://img.shields.io/badge/Nostr-@LucianoBarak-purple)](https://njump.me/npub1nvczhw3gze5waxtrvzzls8qzhvqpn087hj0s2lj948zr4egq0jqhm3mrr)  
-[![YouTube](https://img.shields.io/badge/YouTube-Israel%20Liber-red)](https://www.youtube.com/@lucianocasalunga)  
-[![Telegram](https://img.shields.io/badge/Telegram-t.me%2Fdosedeliberdade-blue)](https://t.me/dosedeliberdade)  
 
-📫 **Contato:** [luciano.casalunga@gmail.com](mailto:luciano.casalunga@gmail.com)
+<p align="center">
+  <a href="https://cloud.libernet.app"><img src="https://img.shields.io/badge/LiberNet-cloud.libernet.app-blue"></a>
+  <a href="https://njump.me/npub1nvczhw3gze5waxtrvzzls8qzhvqpn087hj0s2lj948zr4egq0jqhm3mrr"><img src="https://img.shields.io/badge/Nostr-@LucianoBarak-purple"></a>
+  <a href="https://www.youtube.com/@lucianocasalunga"><img src="https://img.shields.io/badge/YouTube-Israel%20Liber-red"></a>
+  <a href="https://t.me/dosedeliberdade"><img src="https://img.shields.io/badge/Telegram-t.me%2Fdosedeliberdade-blue"></a>
+</p>
+
+<p align="center">
+  📫 <strong>Contato:</strong> <a href="mailto:luciano.casalunga@gmail.com">luciano.casalunga@gmail.com</a>
+</p>
 
 ---
 
-> “Liberdade digital não é um conceito — é infraestrutura.”  
-> — *Luciano Casalunga*
+<p align="center"><em>“Liberdade digital não é um conceito — é infraestrutura.”</em><br>— <strong>Luciano Casalunga</strong></p>
