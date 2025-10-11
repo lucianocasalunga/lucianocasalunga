@@ -9,8 +9,14 @@
 <p align="center">
 Transformo ideias em sistemas reais — da nuvem ao código.<br>
 Crio e mantenho um ecossistema livre, descentralizado e resiliente:<br>
-<strong>LiberNet • CloudMor • Relay • LiberMedia • NIS Token</strong>
+<strong>LiberNet • Relay • LiberMedia • NIS Token</strong>
 </p>
+
+---
+
+### 🌟 Projeto em Destaque
+
+[![LiberNet Stack](https://github-readme-stats.vercel.app/api/pin/?username=lucianocasalunga&repo=libernet-stack&theme=tokyonight)](https://github.com/lucianocasalunga/libernet-stack)
 
 ---
 
@@ -20,7 +26,6 @@ Crio e mantenho um ecossistema livre, descentralizado e resiliente:<br>
   <img src="https://img.shields.io/badge/Linux-✔️-blue">
   <img src="https://img.shields.io/badge/Docker-✔️-blue">
   <img src="https://img.shields.io/badge/Caddy-✔️-green">
-  <img src="https://img.shields.io/badge/Nextcloud-✔️-blue">
   <img src="https://img.shields.io/badge/Nostr-✔️-purple">
   <img src="https://img.shields.io/badge/Cloudflare-✔️-orange">
   <img src="https://img.shields.io/badge/Python-✔️-yellow">
@@ -29,12 +34,11 @@ Crio e mantenho um ecossistema livre, descentralizado e resiliente:<br>
 
 ---
 
-### ☁️ **Projetos em destaque**
+### ☁️ **Projetos do Ecossistema LiberNet**
 
 | Projeto | Descrição | Status |
 |----------|------------|--------|
 | **LiberNet** | Núcleo do ecossistema de comunicação livre e descentralizada | 🌐 Online |
-| **CloudMor** | Nuvem pessoal e corporativa baseada em Nextcloud e Docker | 🧩 Em operação |
 | **Relay.LiberNet.app** | Relay Nostr de alta disponibilidade, com automação e auto-reparo | ⚙️ Estável |
 | **LiberMedia** | Plataforma de mídia descentralizada com integração LNBits | 🎥 Ativa |
 | **NIS Token (BEP-20)** | Token experimental do ecossistema LiberNet | 💤 Em pausa |
