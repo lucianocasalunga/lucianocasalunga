@@ -2,7 +2,7 @@
 
 **Desenvolvedor | Libertário | Judeu Israelense | Construindo Tecnologia Livre**
 
-> *"Do Rio de Janeiro a Israel, da Marinha à Logística, do Estado ao Anarcocapitalismo — Uma jornada de 57 anos dedicada à tecnologia e à liberdade."*
+> *"De Salvador a Tel Aviv, do Colégio Naval à Gerência de TI, da dor à reconstrução — Uma jornada de 57 anos dedicada à tecnologia e à liberdade."*
 
 [![Nostr](https://img.shields.io/badge/Nostr-npub1nvc...-purple)](https://njump.me/npub1nvcezhw3gze5waxtvrzzls8qzhvqpn087hj0s2jl948zr4egq0jqhm3mrr)
 [![Lightning](https://img.shields.io/badge/⚡-barak@libernet.app-orange)](https://getalby.com/)
@@ -16,45 +16,76 @@
 
 **Nome:** Luciano Lopes Casalunga
 **Nome Judaico:** Barak Ben Shlomo
-**Nascimento:** 02 de Janeiro de 1968
+**Nascimento:** 02 de Janeiro de 1968, Salvador-BA
 
-**🎖️ Formação Militar (18 anos)**
-- Academia de Oficiais da Marinha do Brasil (Rio de Janeiro)
+**👨‍👦 Infância e Adolescência**
+- Nasci em Salvador, Bahia
+- Perdi meu pai aos 13 anos de idade
+- Me mudei para São Paulo
+- Estudei em São Paulo até ingressar no Colégio Naval
+
+**🎖️ Formação Militar (3 anos)**
+- Colégio Naval (Rio de Janeiro)
 - Especialização: Telecomunicações, Radar, Sonar, Telex
 - Foi lá que descobri minha paixão por tecnologia
-- Dispensado após Guarda Marinha por problemas de saúde
+- Descartado pela Marinha após 3 anos devido a problemas de saúde
 
-**🎓 Educação**
+**🎓 Formação Profissional**
 - 2 anos na Polícia Militar de São Paulo (para pagar a faculdade)
 - Faculdade de Processamento de Dados (Anhembi Morumbi, SP)
 - Época em que universidades públicas não ofereciam o curso
 
-**💼 Carreira Profissional**
+**💼 Carreira em Tecnologia**
+
 1. **Itautec** - Santana, São Paulo
-2. **Empreendedor** - Loja de Informática "Striker" (dentro da Eletrônica Santana)
+   - Primeiros passos na indústria tech
+
+2. **Unibanco**
+   - Tecnologia e Segurança de Dados
+   - Aprofundamento em segurança da informação
+
+3. **DirecTV** - Entrada no Brasil
+   - Segurança da Informação
+   - Montagem de Servidores
+   - Parte da equipe que trouxe a DirecTV para o Brasil
+
+4. **Embratel**
+   - Construção de Linhas de Longa Distância
+   - Tecnologias: Rádios, Fibra Óptica, Guias de Onda
+   - Todas as formas de rede
+
+5. **Empreendedor** - Loja de Informática "Striker"
+   - Dentro da Eletrônica Santana, São Paulo
    - Tudo ia bem até o governo perseguir nosso fornecedor
    - Empresa fechou por interferência estatal
-   - *Foi aqui que meu anarquismo ganhou nome: Anarcocapitalismo*
-3. **Embratel** - Área privada
-   - Múltiplos assaltos em São Paulo me fizeram buscar o interior
-4. **Tatuí-SP** - Mudança em busca de segurança
-   - Loja de informática (2 anos)
-   - Colégio Objetivo (10 anos)
-   - Atendimento a clientes privados (porto de areia, posto de gasolina, diversos)
+   - **Foi aqui que meu libertarianismo se consolidou**
+
+6. **Colégio Objetivo** - Tatuí, SP (10 anos)
+   - **Gerente de TI** (não apenas funcionário)
+   - Administração de Redes e Servidores
+   - Múltiplos servidores sob responsabilidade
+   - Gestão completa de infraestrutura tecnológica
+   - Paralelamente: Clientes privados (porto de areia, posto de gasolina, diversos)
+
+**💔 2015 - O Ano que Mudou Tudo**
+- Perdi meu filho
+- Perdi também a vontade de continuar no Brasil
+- Decidi me jogar em uma nova vida
 
 ### 📍 Israel (2017-Presente)
 
-**🇮🇱 Aliyah (Janeiro/2017)**
-- Migrei para Israel exercendo meu direito como judeu
-- Comecei trabalhando em fábrica
+**🇮🇱 Reconstrução (Janeiro/2017)**
+- Vim para Israel não apenas por direito, mas por necessidade de recomeçar
+- Comecei do zero: trabalhando em fábrica
 - Promovido para Logística (onde estou atualmente)
-- Retornando à informática com força total em 2024-2025
+- 2024-2025: Retornando à informática com força total
+- **Construindo o LiberNet como forma de reconstrução e propósito**
 
 ---
 
 ## 🚀 Ecossistema LiberNet
 
-Atualmente gerencio **3 projetos ativos** que representam minha visão de tecnologia livre e descentralizada:
+Atualmente gerencio **3 projetos ativos** — cada um representa uma parte da minha jornada de reconstrução através da tecnologia livre:
 
 ### 🤖 [Sofia](https://sofia.libernet.app) - IA Descentralizada
 **Primeira inteligência artificial nativa da rede Nostr**
@@ -90,10 +121,11 @@ Atualmente gerencio **3 projetos ativos** que representam minha visão de tecnol
 
 ---
 
-### 🤖 [n8n](https://n8n.libernet.app) - Automações ⏸️ (Pausado)
+### 🤖 [n8n](https://n8n.libernet.app) - Automações ⏸️
 **Plataforma de automação de workflows**
 - Workflows: YouTube → Telegram → Nostr
 - **Repo:** [n8n-libernet](https://github.com/lucianocasalunga/n8n-libernet)
+- Status: Pausado temporariamente
 
 ---
 
@@ -106,14 +138,14 @@ Atualmente gerencio **3 projetos ativos** que representam minha visão de tecnol
 
 ## 💭 Filosofia
 
-### 🏴 Anarcocapitalismo
+### 🏴 Libertarianismo / Anarcocapitalismo
 
-Sempre fui anarquista, mas não sabia que tinha um nome para isso.
+**Sempre fui libertário**, mas levou tempo para entender o que isso significava.
 
 **Momentos decisivos:**
 1. **Juventude** - Nunca gostei do Estado
 2. **Loja Striker** - Governo perseguiu nosso fornecedor e destruiu nosso negócio
-3. **Depois disso** - Passei a gostar AINDA MENOS do Estado
+3. **Depois disso** - Passei a apoiar ativamente qualquer causa que leve ao libertarianismo
 
 **O que acredito:**
 - 🔓 **Software Livre** - Código aberto é libertação digital
@@ -121,21 +153,31 @@ Sempre fui anarquista, mas não sabia que tinha um nome para isso.
 - 🌐 **Descentralização** - Poder distribuído, não concentrado
 - ⚡ **Bitcoin** - Separação entre dinheiro e Estado
 - 🗣️ **Liberdade** - De expressão, de pensamento, de existir
+- 🏴 **Anarcocapitalismo** - Mercado livre, Estado zero
 
-> *"O Estado não te protege. O Estado é o problema."*
+> *"O Estado não te protege. O Estado é o problema. O mercado é a solução."*
+
+**Hoje sou apoiador de qualquer causa que leve ao libertarianismo.**
 
 ---
 
 ## 💻 Tech Stack
 
-**Desde a Marinha até Israel:**
+**Da Telecomunicações Naval à Descentralização:**
 
 **Anos 80-90:**
-- Telecomunicações, Radar, Sonar, Telex
+- Colégio Naval: Telecomunicações, Radar, Sonar, Telex
 - Processamento de Dados (Anhembi Morumbi)
-- Itautec, Embratel
+- Itautec, Unibanco, DirecTV, Embratel
+- Segurança da Informação, Montagem de Servidores
+- Redes de Longa Distância (Rádios, Fibra, Guias de Onda)
 
-**Atualmente:**
+**Anos 2000-2010:**
+- Administração de Redes e Servidores
+- Gerência de TI (Colégio Objetivo - 10 anos)
+- Infraestrutura completa
+
+**Atualmente (2024-2025):**
 - **Backend:** Python, Flask, Gunicorn
 - **AI/ML:** OpenAI GPT-4o, RAG, Embeddings
 - **Database:** SQLite, PostgreSQL
@@ -163,7 +205,7 @@ Criar tecnologia que:
 - ✅ Empodera indivíduos
 - ✅ Promove liberdade
 
-**Do Rio a Tel Aviv, da Marinha à Logística, do Estado ao Mercado — sempre construindo tecnologia livre.**
+**Da dor à reconstrução. Da perda ao propósito. Do Estado ao Mercado.**
 
 ---
 
@@ -194,21 +236,23 @@ Criar tecnologia que:
 - Timezone: Asia/Jerusalem (IST)
 - Trabalhando em Logística de Fábrica
 - Desenvolvendo LiberNet nas horas vagas
-- Sonhando com o dia em que tecnologia livre seja meu trabalho principal
+- Reconstruindo minha vida através da tecnologia livre
 
 ---
 
 ## 📖 Lições de Vida
 
-1. **A Marinha me ensinou:** Disciplina e amor pela tecnologia
-2. **A PM me ensinou:** A valorizar educação (estava lá só pra pagar faculdade)
-3. **O governo destruindo meu negócio me ensinou:** Estado não é amigo do empreendedor
-4. **São Paulo me ensinou:** Violência urbana é resultado de políticas estatais falhas
-5. **Tatuí me ensinou:** Simplicidade e paz no interior
-6. **O Objetivo me ensinou:** Consistência (10 anos no mesmo lugar)
-7. **Israel me ensinou:** Reinvenção é possível em qualquer idade
+1. **Perder meu pai aos 13** me ensinou resiliência cedo
+2. **O Colégio Naval** me deu disciplina e amor pela tecnologia
+3. **A PM** me ensinou a valorizar educação (estava lá só pra pagar faculdade)
+4. **Itautec, Unibanco, DirecTV, Embratel** me deram experiência técnica profunda
+5. **O governo destruindo meu negócio** me tornou libertário convicto
+6. **Colégio Objetivo (10 anos)** me ensinou gestão e consistência
+7. **Perder meu filho em 2015** me quebrou, mas também me trouxe até aqui
+8. **Israel** me deu a chance de recomeçar do zero
+9. **A dor** me ensinou que propósito é a melhor forma de cura
 
-**Tenho 57 anos e estou apenas começando minha jornada na tecnologia descentralizada.**
+**Tenho 57 anos. Perdi muito. Reconstruí mais. E estou apenas começando minha jornada na tecnologia descentralizada.**
 
 ---
 
@@ -218,14 +262,16 @@ Criar tecnologia que:
 
 *"Não peça permissão. Construa o futuro que você quer ver."*
 
-**Do Brasil a Israel, construindo tecnologia livre com ❤️**
+**De Salvador a Tel Aviv, da dor à reconstrução, construindo tecnologia livre com ❤️**
 
-🔑 Nostr | ⚡ Lightning | 🏴 Anarcocapitalismo | 🇮🇱 Israel
+🔑 Nostr | ⚡ Lightning | 🏴 Libertarianismo | 🇮🇱 Israel
 
 ---
 
 ### ⚡ Apoie o projeto:
 **Lightning:** barak@libernet.app
 **Nostr:** npub1nvcezhw3gze5waxtvrzzls8qzhvqpn087hj0s2jl948zr4egq0jqhm3mrr
+
+*Em memória de meu filho (2015) — construindo o futuro que ele não pôde ver.*
 
 </div>
