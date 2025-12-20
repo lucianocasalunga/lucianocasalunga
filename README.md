@@ -1,283 +1,532 @@
 <div align="center">
 
-![Banner](https://i.nostr.build/OIFE9ommxVaEn5xL.jpg)
+<!-- HEADER SECTION -->
+<img src="https://i.nostr.build/OIFE9ommxVaEn5xL.jpg" alt="Luciano Casalunga Banner" width="100%" />
 
-# 👋 Luciano Casalunga (Barak)
+<h1 style="font-size: 3em; margin: 20px 0;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Luciano+Casalunga+(Barak);O+Homem+Por+Trás+das+Máquinas;40+Anos+de+Infraestrutura+Digital;Construindo+Liberdade+Digital" alt="Typing SVG" />
+</h1>
 
-**O Homem Por Trás das Máquinas**
+<p align="center">
+  <img src="https://img.shields.io/badge/Foco-Sistemas_Descentralizados-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stack-Nostr_+_Bitcoin-F7931A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Localização-Israel-0078D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Experiência-40+_Anos-00C853?style=for-the-badge" />
+</p>
 
-*De telecomunicações militares ao ecossistema descentralizado LiberNet*
-*57 anos construindo a infraestrutura que move o mundo digital*
-
-[![Nostr](https://img.shields.io/badge/Nostr-@LucianoBarak-8B5CF6?style=for-the-badge&logo=nostr&logoColor=white)](https://njump.me/npub1nvcezhw3gze5waxtvrzzls8qzhvqpn087hj0s2jl948zr4egq0jqhm3mrr)
-[![YouTube](https://img.shields.io/badge/YouTube-Israel_Liber-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@lucianocasalunga)
-[![LiberNet](https://img.shields.io/badge/LiberNet-Ecosystem-blueviolet?style=for-the-badge)](https://libernet.app)
+<p align="center">
+  <a href="https://njump.me/npub1nvcezhw3gze5waxtvrzzls8qzhvqpn087hj0s2jl948zr4egq0jqhm3mrr">
+    <img src="https://img.shields.io/badge/Nostr-@LucianoBarak-8B5CF6?style=for-the-badge&logo=lightning&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@lucianocasalunga">
+    <img src="https://img.shields.io/badge/YouTube-Israel_Liber-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/LucianoBarak">
+    <img src="https://img.shields.io/badge/Twitter-@LucianoBarak-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://libernet.app">
+    <img src="https://img.shields.io/badge/Website-libernet.app-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 🎯 Quem Sou
+<!-- ABOUT SECTION -->
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Sou aquele técnico que você nunca viu, mas que fez os sistemas funcionarem. O homem por trás das máquinas. O arquiteto invisível da infraestrutura digital.
+### 👨‍💻 Sobre Mim
 
-**57 anos de código, circuitos e resiliência.**
+```typescript
+const barak = {
+    nome: "Luciano Casalunga",
+    aka: "Barak",
+    idade: 57,
+    localização: "Israel 🇮🇱",
+    papel: "Arquiteto de Infraestrutura Digital",
 
----
+    missao: "Construir a infraestrutura da liberdade digital",
 
-## 🛤️ A Jornada
+    especialidades: [
+        "Sistemas Descentralizados",
+        "Infraestrutura de Telecomunicações",
+        "Protocolos Nostr",
+        "Bitcoin & Lightning Network",
+        "DevOps & Cloud Architecture"
+    ],
 
-### 1968 → Começos Improváveis
-Nasci prematuro de 7 meses em uma fazenda no interior do Brasil. Não deveria estar aqui. Mas resiliência corre nas veias desde o primeiro dia.
-
-### 1985 → Telecomunicações Militares
-**Colégio Naval** • Guarda-marinha aos 19 anos
-
-Enquanto outros adolescentes jogavam videogame, eu aprendia:
-- Radar e Sonar
-- Telecomunicações táticas
-- Telex e comunicações de longo alcance
-- Disciplina que molda engenheiros de verdade
-
-A saúde me tirou do mar. A tecnologia me levou ao mundo.
-
-### 1987 → Código & Sobrevivência
-**Polícia Militar** + **Faculdade de Processamento de Dados** (Anhembi Morumbi)
-
-Trabalhava na PM de dia. Estudava à noite. E ainda encontrava tempo para:
-- Trabalhar como locutor em **Rádio São Paulo, Rádio Mappin, Rádio Record**
-- Dominar programação antes da internet comercial
-- Aprender que multitarefa não é opcional quando você vem de baixo
-
-### 1992 → O Empreendedor
-**Itautec** (Servidores) + **Eletrônica Santana** (Meu negócio)
-
-- Montei uma **Lan House** quando isso era ficção científica no Brasil
-- Criei um império de balcão de informática
-- Me senti rei por um momento
-
-Então o Estado brasileiro quebrou nossos fornecedores.
-Fui à falência. Aprendi que sistemas governamentais falham antes de sistemas técnicos.
-
-### 2002 → O Mundo se Abre
-**Embratel** • Viajando 3 continentes
-
-Implementei infraestrutura de telecomunicações em:
-- 🌎 **Toda a América Latina**
-- 🌍 **Venezuela, Armênia, Marrocos**
-
-Eu era o fantasma que chegava, consertava o impossível, e desaparecia.
-O preço? Minha família desmoronou. Minha ex-mulher me deixou com 3 filhos pequenos.
-
-### 2006 → Mudança para o Interior
-**Tatuí, SP** • Recomeço com os filhos
-
-Após assaltos seguidos na loja e largar a Embratel, tomei a decisão: mudei para o interior de São Paulo para criar meus filhos em paz.
-
-Abri uma **Lan House** que funcionou por 1 ano e meio.
-
-### 2007-2016 → Vida Dupla em Tatuí
-**Colégio Objetivo** (manhã) + **Consultor TI** (tarde) • Quase 10 anos
-
-Janeiro de 2007: entrei no Colégio Objetivo como Gerente de TI.
-
-Metade de 2007: fechei a Lan House - era demais gerenciar escola + clientes + filhos.
-
-**A solução:** Dividi meu tempo:
-- ☀️ Manhã: Infraestrutura do Colégio Objetivo
-- 🌆 Tarde: Consultoria para empresas locais
-
-**Clientes:** Posto 400 (gasolina), porto de areia, clínica de saúde, e dezenas de outros.
-
-Uma década sendo pai solo, gerente de TI, e o "técnico que resolve tudo" de Tatuí.
-
-### Novembro/2015 → Tragédia
-**Meu filho morreu.**
-
-A dor foi indescritível. Continuei trabalhando por mais um ano, mas nada fazia sentido.
-
-### Novembro/2016 → A Decisão
-Saí do Colégio Objetivo. Um ano após a tragédia, tomei a decisão mais difícil da minha vida.
-
-**18 de Janeiro de 2017** - Imigrei para Israel.
-
-### 2017-2025 → O Retorno
-
-Em Israel, algo reacendeu:
-- 📦 **Logística** (dia) + **TI** (sempre)
-- 📺 **YouTube** - Compartilhando 40 anos de conhecimento técnico
-- 💻 **Programação com IA** - Voltando às raízes, mas com superpoderes
-- 🌐 **LiberNet** - Construindo o ecossistema que sempre sonhei
-
----
-
-## 🔧 O Que Sei Fazer
-
-### Infraestrutura & Sistemas
-```
-Telecomunicações militares → Redes corporativas → Datacenters
-Servidores físicos → Cloud → Docker/Containers → Descentralização
+    filosofia: "Liberdade digital não é conceito — é infraestrutura"
+};
 ```
 
-### Código & Automação
-```python
-# 40 anos escrevendo código para resolver problemas reais
-linguagens = ["Python", "Bash", "JavaScript", "SQL"]
-eras = ["Mainframes", "Client-Server", "Web", "Cloud", "Descentralizado"]
-filosofia = "Código que funciona > Código bonito"
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Quick Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=lucianocasalunga&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=F7931A&text_color=ffffff" width="100%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lucianocasalunga&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=F7931A&currStreakLabel=8B5CF6" width="100%" />
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- JOURNEY TIMELINE -->
+<h2 align="center">🛤️ Jornada Profissional</h2>
+
+```mermaid
+gantt
+    title Timeline - 40 Anos de Infraestrutura Digital
+    dateFormat YYYY
+    section Formação
+    Colégio Naval (Guarda-marinha)     :1985, 1987
+    Processamento de Dados             :1987, 1992
+    Ciência da Computação              :2008, 2008
+    História                           :2012, 2015
+    section Carreira
+    Polícia Militar + Faculdade        :1987, 1992
+    Rádio (Locutor)                    :1988, 1995
+    Itautec + Lan House               :1992, 2002
+    Embratel (Mundial)                :2002, 2006
+    Colégio Objetivo (Gerente TI)     :2007, 2016
+    section Israel
+    Imigração & Reconstrução          :2017, 2025
+    LiberNet Ecosystem                :2023, 2025
 ```
 
-### Stack Atual (LiberNet Ecosystem)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Nostr](https://img.shields.io/badge/Nostr-8B5CF6?style=flat&logo=nostr&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=flat&logo=caddy&logoColor=white)
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🎖️ 1985-1987
+**Colégio Naval**
+<br/>Guarda-marinha
+<br/>Telecomunicações militares
+
+</td>
+<td width="33%" align="center">
+
+### 🌎 2002-2006
+**Embratel**
+<br/>América Latina
+<br/>Armênia, Marrocos
+
+</td>
+<td width="33%" align="center">
+
+### 🇮🇱 2017-Hoje
+**Israel**
+<br/>LiberNet Ecosystem
+<br/>8 anos de reconstrução
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌐 LiberNet Ecosystem
-
-Projetos que estou construindo para um mundo descentralizado:
-
-### [🎥 LiberMedia](https://github.com/lucianocasalunga/libermedia)
-Hospedagem de arquivos descentralizada com Nostr + Lightning
-- NIP-96 compliant
-- Pagamentos instantâneos em Bitcoin
-- Sistema de badges e conquistas
-
-### [🤖 Sofia](https://github.com/lucianocasalunga/sofia-web)
-Primeira IA nativa do protocolo Nostr
-- GPT-4o com autenticação descentralizada
-- RAG e embeddings personalizados
-- Aprende com cada conversa
-
-### [💬 LiberChat](https://github.com/lucianocasalunga/liberchat)
-Cliente de chat Nostr com DMs encriptadas
-- NIP-04 (mensagens privadas)
-- PWA instalável
-- i18n (pt-BR, en-US, es-ES)
-
-### [⚡ LiberNet Relay](https://github.com/lucianocasalunga/libernet-relay)
-Fork customizado do nostr-rs-relay
-- Políticas de moderação inteligentes
-- Alta disponibilidade
-- Auto-reparo
-
----
-
-## 💭 Filosofia
-
-> **"Liberdade digital não é um conceito — é infraestrutura."**
-
-Durante 40 anos, fui o homem que ninguém vê. O técnico nos bastidores. O cara que faz as coisas funcionarem enquanto outros levam o crédito.
-
-Hoje, construo sistemas onde **todos podem ser soberanos**:
-- Suas chaves → Sua identidade (Nostr)
-- Seu dinheiro → Seu controle (Bitcoin/Lightning)
-- Seus dados → Sua propriedade (Descentralização)
-
-Não é sobre fama. É sobre **construir a infraestrutura da liberdade**.
-
----
-
-## 📊 GitHub Stats
+<!-- TECH STACK -->
+<h2 align="center">🚀 Tech Stack & Ferramentas</h2>
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucianocasalunga&show_icons=true&theme=tokyonight&hide_border=true)
+### Languages & Frameworks
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucianocasalunga&layout=compact&theme=tokyonight&hide_border=true)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Backend & Databases
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### DevOps & Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+### Blockchain & Descentralização
+
+![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
+![Lightning](https://img.shields.io/badge/Lightning-792EE5?style=for-the-badge&logo=lightning&logoColor=white)
+![Nostr](https://img.shields.io/badge/Nostr-8B5CF6?style=for-the-badge&logo=lightning&logoColor=white)
+
+### Frontend & Tools
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-## 🎓 Formação & Experiência
+<!-- PROJECTS SECTION -->
+<h2 align="center">💼 LiberNet Ecosystem - Projetos em Produção</h2>
 
-**Formação:**
-- 🎓 **Processamento de Dados** - Anhembi Morumbi (~1992)
-- 🎓 **Ciência da Computação** (2008)
-- 💻 **Programação** (2010)
-- 📚 **História** (2012-2015)
-- ⚓ **Guarda-marinha** - Colégio Naval (1985-1987)
-- 📻 **Locução de Rádio**
+<table>
+<tr>
+<td width="50%">
 
-**Experiência Profissional:**
-- 🌎 **Embratel** - Infraestrutura de Telecomunicações (2002-2006)
-- 🏫 **Colégio Objetivo de Tatuí** - Gerente de TI (quase 10 anos, Jan/2007-Nov/2016)
-- 📍 **Tatuí, SP** - 2006-2016 (10 anos no interior)
-- 💻 **Itautec** - Suporte a Servidores
-- 👮 **Polícia Militar de São Paulo**
-- 📡 **Marinha do Brasil** - Telecomunicações
+<h3 align="center">🎥 LiberMedia</h3>
+<div align="center">
 
+[![LiberMedia](https://github-readme-stats.vercel.app/api/pin/?username=lucianocasalunga&repo=libermedia&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=F7931A)](https://github.com/lucianocasalunga/libermedia)
+
+**Hospedagem Descentralizada de Arquivos**
+
+![Status](https://img.shields.io/badge/Status-PRODUCTION-00C853?style=flat-square)
+![Users](https://img.shields.io/badge/Users-Active-8B5CF6?style=flat-square)
+
+`Nostr` `Lightning` `NIP-96` `Python` `PostgreSQL`
+
+[🔗 Demo](https://media.libernet.app) | [📖 Docs](https://github.com/lucianocasalunga/libermedia)
+
+</div>
+</td>
+<td width="50%">
+
+<h3 align="center">🤖 Sofia</h3>
+<div align="center">
+
+[![Sofia](https://github-readme-stats.vercel.app/api/pin/?username=lucianocasalunga&repo=sofia-web&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=F7931A)](https://github.com/lucianocasalunga/sofia-web)
+
+**Primeira IA Nativa do Nostr**
+
+![Status](https://img.shields.io/badge/Status-PRODUCTION-00C853?style=flat-square)
+![Model](https://img.shields.io/badge/Model-GPT--4o-412991?style=flat-square)
+
+`GPT-4o` `Nostr` `RAG` `ML` `Lightning`
+
+[🔗 Demo](https://sofia.libernet.app) | [📖 Docs](https://github.com/lucianocasalunga/sofia-web)
+
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<h3 align="center">💬 LiberChat</h3>
+<div align="center">
+
+[![LiberChat](https://github-readme-stats.vercel.app/api/pin/?username=lucianocasalunga&repo=liberchat&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=F7931A)](https://github.com/lucianocasalunga/liberchat)
+
+**Cliente Chat Nostr**
+
+![Status](https://img.shields.io/badge/Status-PRODUCTION-00C853?style=flat-square)
+![PWA](https://img.shields.io/badge/PWA-Enabled-5A0FC8?style=flat-square)
+
+`NIP-04` `E2E Encryption` `PWA` `i18n`
+
+[🔗 Demo](https://chat.libernet.app) | [📖 Docs](https://github.com/lucianocasalunga/liberchat)
+
+</div>
+</td>
+<td width="50%">
+
+<h3 align="center">⚡ LiberNet Relay</h3>
+<div align="center">
+
+[![Relay](https://github-readme-stats.vercel.app/api/pin/?username=lucianocasalunga&repo=libernet-relay&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=F7931A)](https://github.com/lucianocasalunga/libernet-relay)
+
+**Nostr Relay Customizado**
+
+![Status](https://img.shields.io/badge/Status-STABLE-00C853?style=flat-square)
+![Uptime](https://img.shields.io/badge/Uptime-99.9%25-00C853?style=flat-square)
+
+`Rust` `WebSocket` `High Performance`
+
+[🔗 Relay](wss://relay.libernet.app) | [📖 Docs](https://github.com/lucianocasalunga/libernet-relay)
+
+</div>
+</td>
+</tr>
+</table>
+
+---
+
+<!-- EXPERIENCE SECTION -->
+<h2 align="center">💼 Experiência Profissional</h2>
+
+<details open>
+<summary><b>🇮🇱 Atual - Israel (2017-2025)</b></summary>
+<br/>
+
+**Cargo:** Logística + Auxiliar Gerente de TI
+**Projetos Pessoais:** LiberNet Ecosystem, YouTube (Israel Liber)
+**Conquistas:**
+- ✅ Reconstrução completa após tragédia pessoal
+- ✅ Criação do ecossistema LiberNet (4 projetos em produção)
+- ✅ Canal YouTube com conteúdo técnico (40 anos de experiência)
+- ✅ Retorno à programação com IA (Python, JavaScript, Docker)
+
+</details>
+
+<details>
+<summary><b>🏫 Colégio Objetivo de Tatuí - Gerente de TI (2007-2016)</b></summary>
+<br/>
+
+**Período:** Janeiro/2007 - Novembro/2016 (quase 10 anos)
+**Responsabilidades:**
+- 🔧 Gerenciamento completo da infraestrutura de TI
+- 💻 Suporte a centenas de computadores e dispositivos
+- 🌐 Redes, servidores, sistemas educacionais
+- 👥 Gestão de equipe técnica
+
+**Paralelo:**
+- 💼 Consultoria TI (tardes): Posto 400, porto de areia, clínica, etc
+- 🎓 Estudante: Ciência da Computação (2008), Programação (2010), História (2012-2015)
+- 👨‍👧‍👦 Pai solo de 3 filhos
+
+</details>
+
+<details>
+<summary><b>🌎 Embratel - Infraestrutura de Telecomunicações (2002-2006)</b></summary>
+<br/>
+
+**Período:** 2002-2006
+**Escopo:** Internacional (América Latina, África, Ásia)
+**Projetos:**
+- 🌎 Implementação de infraestrutura em toda América Latina
+- 🌍 Projetos em Venezuela, Armênia, Marrocos
+- 📡 Telecomunicações de longo alcance
+- 🛠️ Troubleshooting crítico em campo
+
+**Aprendizado:** "O técnico invisível que conserta o impossível"
+
+</details>
+
+<details>
+<summary><b>💻 Itautec + Empreendedor (1992-2002)</b></summary>
+<br/>
+
+**Itautec:** Suporte a servidores (projetos iniciais da empresa)
 **Empreendimentos:**
-- 💻 **Eletrônica Santana** - Balcão de Informática (São Paulo)
-- 🎮 **Lan House São Paulo** - Era dos pioneiros (anos 90)
-- 🎮 **Lan House Tatuí** - 2006-2007 (1 ano e meio)
-- 💼 **Consultor TI Tatuí** - 2007-2016 (Posto 400, porto de areia, clínica, etc)
-- 🎓 **Professor de Informática** - Vários anos
-- 💻 **Desenvolvedor Freelance** - Toda a vida
+- 🎮 Lan House (pioneiro no Brasil - era épica!)
+- 💻 Balcão de informática (Eletrônica Santana)
+- 🏪 Gestão de loja própria
+
+**Resultado:** Quebrei por perseguição estatal aos fornecedores, mas aprendi que sistemas governamentais falham antes de sistemas técnicos.
+
+</details>
+
+<details>
+<summary><b>🎓 Polícia Militar + Faculdade + Rádio (1987-1992)</b></summary>
+<br/>
+
+**Vida Tripla:**
+- 👮 Polícia Militar de São Paulo (pagar a faculdade)
+- 🎓 Faculdade de Processamento de Dados (Anhembi Morumbi)
+- 📻 Locutor de Rádio (Rádio São Paulo, Mappin, Record)
+
+**Lição:** Multitarefa não é opcional quando você vem de baixo.
+
+</details>
+
+<details>
+<summary><b>⚓ Marinha do Brasil - Telecomunicações (1985-1987)</b></summary>
+<br/>
+
+**Instituição:** Colégio Naval
+**Formação:** Guarda-marinha (19 anos)
+**Aprendizado:**
+- 📡 Radar, Sonar, Telex
+- 📻 Rádio AM, FM, OC (comunicação tática)
+- 🔧 Disciplina técnica e engenharia de precisão
+
+**Saída:** Problemas de saúde, mas a tecnologia me levou ao mundo.
+
+</details>
 
 ---
 
-## 📺 Conteúdo
+<!-- PHILOSOPHY SECTION -->
+<h2 align="center">💭 Filosofia & Valores</h2>
 
-Compartilho conhecimento técnico, experiências de vida e o desenvolvimento do LiberNet no YouTube:
+<table>
+<tr>
+<td width="50%" align="center">
 
-**Canal:** [Israel Liber](https://youtube.com/@lucianocasalunga)
+### 🎯 Missão
 
-Tópicos:
-- Desenvolvimento de sistemas descentralizados
-- Bitcoin e Lightning Network
-- Nostr e protocolos abertos
-- Vida de imigrante tech em Israel
-- 40 anos de histórias da tecnologia
+> *"Liberdade digital não é um conceito — é infraestrutura."*
 
----
+Construir sistemas onde **todos podem ser soberanos**:
+- 🔑 Suas chaves → Sua identidade (Nostr)
+- ₿ Seu dinheiro → Seu controle (Bitcoin)
+- 📁 Seus dados → Sua propriedade (Descentralização)
 
-## 🌍 Onde Me Encontrar
+</td>
+<td width="50%" align="center">
+
+### 🛠️ Valores
+
+```python
+valores = {
+    "codigo": "Que funciona > Que é bonito",
+    "infraestrutura": "Resiliente, descentralizada, livre",
+    "conhecimento": "Compartilhado abertamente",
+    "credito": "Para quem faz, não quem fala",
+    "filosofia": "Anarquista de coração, pragmático na execução"
+}
+```
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-[![Nostr](https://img.shields.io/badge/Nostr-npub1nvc...-8B5CF6?style=for-the-badge)](https://njump.me/npub1nvcezhw3gze5waxtvrzzls8qzhvqpn087hj0s2jl948zr4egq0jqhm3mrr)
-[![YouTube](https://img.shields.io/badge/YouTube-@lucianocasalunga-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@lucianocasalunga)
-[![Twitter](https://img.shields.io/badge/Twitter-@LucianoBarak-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/LucianoBarak)
-[![LiberNet](https://img.shields.io/badge/Website-libernet.app-blueviolet?style=for-the-badge)](https://libernet.app)
+### 📜 A História em Uma Frase
 
-📧 **Email:** luciano.casalunga@gmail.com
+**"40 anos sendo o homem invisível por trás das máquinas que movem o mundo digital.<br/>Agora construindo a infraestrutura da liberdade para todos."**
 
 </div>
 
 ---
 
-## 💡 Projetos em Destaque
+<!-- LEARNING PATH -->
+<h2 align="center">🎓 Formação Acadêmica & Certificações</h2>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎯 Formação
+
+- 🎓 **Processamento de Dados** (Anhembi Morumbi, ~1992)
+- 🎓 **Ciência da Computação** (2008)
+- 💻 **Programação Avançada** (2010)
+- 📚 **História** (2012-2015)
+- ⚓ **Guarda-marinha** (Colégio Naval, 1985-1987)
+- 📻 **Locução de Rádio** (anos 80/90)
+
+</td>
+<td width="50%">
+
+### 🏆 Experiência Prática
+
+**40 anos de:**
+- ✅ Infraestrutura de Telecomunicações
+- ✅ Administração de Sistemas
+- ✅ DevOps & Cloud Architecture
+- ✅ Desenvolvimento Full-Stack
+- ✅ Gestão de TI Institucional
+- ✅ Consultoria para empresas
+- ✅ Ensino de Informática
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- CONTENT SECTION -->
+<h2 align="center">📺 Conteúdo & Comunidade</h2>
 
 <div align="center">
 
-[![LiberMedia](https://github-readme-stats.vercel.app/api/pin/?username=lucianocasalunga&repo=libermedia&theme=tokyonight)](https://github.com/lucianocasalunga/libermedia)
-[![Sofia](https://github-readme-stats.vercel.app/api/pin/?username=lucianocasalunga&repo=sofia-web&theme=tokyonight)](https://github.com/lucianocasalunga/sofia-web)
+### YouTube - Israel Liber
+
+[![YouTube](https://img.shields.io/badge/YouTube-Israel_Liber-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@lucianocasalunga)
+
+**Conteúdo:**
+- 🎥 Desenvolvimento de sistemas descentralizados
+- ₿ Bitcoin e Lightning Network na prática
+- 💜 Protocolo Nostr e NIPs
+- 🇮🇱 Vida de imigrante tech em Israel
+- 📚 40 anos de histórias da tecnologia
+
+### Nostr - Rede Descentralizada
+
+[![Nostr](https://img.shields.io/badge/Nostr-@LucianoBarak-8B5CF6?style=for-the-badge&logo=lightning&logoColor=white)](https://njump.me/npub1nvcezhw3gze5waxtvrzzls8qzhvqpn087hj0s2jl948zr4egq0jqhm3mrr)
+
+**NIP-05:** `luciano@libernet.app`
+**Relay:** `wss://relay.libernet.app`
 
 </div>
 
 ---
 
-## 🤝 Colabore
-
-Acredita em liberdade digital? Contribua com os projetos LiberNet:
-
-- ⭐ **Star** nos repositórios
-- 🐛 **Reporte bugs** e sugira features
-- 💻 **Contribua** com código
-- ⚡ **Doe sats** via Lightning
-- 💜 **Zap** no Nostr
-
----
+<!-- GITHUB ACTIVITY -->
+<h2 align="center">📊 GitHub Activity</h2>
 
 <div align="center">
 
-### *"Eu era aquele sujeito obscuro que ninguém sabe quem é, mas que faz com que as coisas aconteçam."*
+<img src="https://github-readme-stats.vercel.app/api?username=lucianocasalunga&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=F7931A&text_color=ffffff&count_private=true&include_all_commits=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianocasalunga&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=ffffff&langs_count=8" width="49%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lucianocasalunga&theme=react-dark&hide_border=true&bg_color=0D1117&color=8B5CF6&line=F7931A&point=ffffff" width="98%" />
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucianocasalunga&theme=radical)
+
+</div>
+
+---
+
+<!-- CONTACT SECTION -->
+<h2 align="center">📬 Contato & Colaboração</h2>
+
+<div align="center">
+
+### 🌍 Onde Me Encontrar
+
+<p>
+  <a href="https://njump.me/npub1nvcezhw3gze5waxtvrzzls8qzhvqpn087hj0s2jl948zr4egq0jqhm3mrr">
+    <img src="https://img.shields.io/badge/Nostr-npub1nvc...-8B5CF6?style=for-the-badge&logo=lightning&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@lucianocasalunga">
+    <img src="https://img.shields.io/badge/YouTube-@lucianocasalunga-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/LucianoBarak">
+    <img src="https://img.shields.io/badge/Twitter-@LucianoBarak-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:luciano.casalunga@gmail.com">
+    <img src="https://img.shields.io/badge/Email-luciano.casalunga-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://libernet.app">
+    <img src="https://img.shields.io/badge/Website-libernet.app-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
+### 🤝 Como Contribuir
+
+Acredita em liberdade digital? Aqui está como você pode ajudar:
+
+| Ação | Descrição |
+|------|-----------|
+| ⭐ **Star** | Dê uma estrela nos repositórios |
+| 🐛 **Issues** | Reporte bugs e sugira features |
+| 💻 **Code** | Contribua com código (PRs bem-vindos!) |
+| ⚡ **Lightning** | Doe sats via [LiberMedia](https://media.libernet.app) |
+| 💜 **Nostr Zap** | Envie zaps para `luciano@libernet.app` |
+| 📺 **YouTube** | Inscreva-se e compartilhe |
+
+</div>
+
+---
+
+<!-- FOOTER -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=100&section=footer" width="100%" />
+
+### 💭 *"Eu era aquele sujeito obscuro que ninguém sabe quem é,<br/>mas que faz com que as coisas aconteçam."*
 
 **Do homem invisível por trás das máquinas ao construtor de ecossistemas descentralizados.**
 
@@ -285,8 +534,11 @@ Acredita em liberdade digital? Contribua com os projetos LiberNet:
 
 ---
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=lucianocasalunga.lucianocasalunga)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=lucianocasalunga.lucianocasalunga&label=Visitantes&labelColor=%238B5CF6&countColor=%23F7931A&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=lucianocasalunga&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS)
 
 **Construído com 💜 para um mundo mais livre**
+
+<sub>Última atualização: Dezembro 2025 | Feito com Markdown + HTML + CSS + Muito ☕</sub>
 
 </div>
