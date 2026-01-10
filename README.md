@@ -3,9 +3,14 @@
 <!-- HEADER SECTION -->
 <img src="https://i.nostr.build/OIFE9ommxVaEn5xL.jpg" alt="Luciano Casalunga Banner" width="100%" />
 
-<h1 style="font-size: 3em; margin: 20px 0;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Luciano+Casalunga+(Barak);The+Man+Behind+The+Machines;40+Years+of+Digital+Infrastructure;Building+Digital+Freedom" alt="Typing SVG" />
+<h1 style="font-size: 3em; margin: 20px 0; color: #8B5CF6;">
+  Luciano Casalunga (Barak)
 </h1>
+
+<p align="center" style="font-size: 1.2em; color: #888;">
+  <strong>The Man Behind The Machines</strong><br/>
+  40 Years of Digital Infrastructure • Building Digital Freedom
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Decentralized_Systems-8B5CF6?style=for-the-badge" alt="Focus" />
@@ -72,8 +77,25 @@ const barak = {
 
 <img src="https://github-readme-stats.vercel.app/api?username=lucianocasalunga&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=F7931A&text_color=ffffff" width="100%" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lucianocasalunga&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=F7931A&currStreakLabel=8B5CF6" width="100%" alt="GitHub Streak" />
+</div>
 
+<div align="center" style="margin-top: 15px;">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <strong style="color: #8B5CF6; font-size: 1.8em;">9</strong><br/>
+        <span style="color: #888;">Public Repositories</span>
+      </td>
+      <td align="center" width="33%">
+        <strong style="color: #F7931A; font-size: 1.8em;">4</strong><br/>
+        <span style="color: #888;">Production Projects</span>
+      </td>
+      <td align="center" width="33%">
+        <strong style="color: #22c55e; font-size: 1.8em;">40+</strong><br/>
+        <span style="color: #888;">Years Experience</span>
+      </td>
+    </tr>
+  </table>
 </div>
 
 </td>
