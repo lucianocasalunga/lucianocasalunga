@@ -75,7 +75,7 @@ const barak = {
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masteranirudhemmadi.vercel.app/api?username=lucianocasalunga&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=F7931A&text_color=ffffff" width="100%" alt="GitHub Stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucianocasalunga&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=F7931A&text_color=ffffff" width="100%" alt="GitHub Stats" />
 
 </div>
 
@@ -225,7 +225,7 @@ gantt
 <h3 align="center">🎥 LiberMedia</h3>
 <div align="center">
 
-[![LiberMedia](https://github-readme-stats.vercel.app/api/pin/?username=lucianocasalunga&repo=libermedia&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=F7931A)](https://github.com/lucianocasalunga/libermedia)
+[![LiberMedia](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lucianocasalunga&repo=libermedia&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=F7931A)](https://github.com/lucianocasalunga/libermedia)
 
 **Decentralized File Hosting**
 
@@ -243,7 +243,7 @@ gantt
 <h3 align="center">🤖 Sofia</h3>
 <div align="center">
 
-[![Sofia](https://github-readme-stats.vercel.app/api/pin/?username=lucianocasalunga&repo=sofia-web&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=F7931A)](https://github.com/lucianocasalunga/sofia-web)
+[![Sofia](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lucianocasalunga&repo=sofia-web&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=F7931A)](https://github.com/lucianocasalunga/sofia-web)
 
 **First Nostr-Native AI**
 
@@ -265,7 +265,7 @@ _From Linux Sofia (1990s) to AI Sofia (2024)_
 <h3 align="center">💬 LiberChat</h3>
 <div align="center">
 
-[![LiberChat](https://github-readme-stats.vercel.app/api/pin/?username=lucianocasalunga&repo=liberchat&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=F7931A)](https://github.com/lucianocasalunga/liberchat)
+[![LiberChat](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lucianocasalunga&repo=liberchat&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=F7931A)](https://github.com/lucianocasalunga/liberchat)
 
 **Nostr Chat Client**
 
@@ -283,7 +283,7 @@ _From Linux Sofia (1990s) to AI Sofia (2024)_
 <h3 align="center">⚡ LiberNet Relay</h3>
 <div align="center">
 
-[![Relay](https://github-readme-stats.vercel.app/api/pin/?username=lucianocasalunga&repo=libernet-relay&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=F7931A)](https://github.com/lucianocasalunga/libernet-relay)
+[![Relay](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lucianocasalunga&repo=libernet-relay&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=F7931A)](https://github.com/lucianocasalunga/libernet-relay)
 
 **Custom Nostr Relay**
 
@@ -525,8 +525,8 @@ values = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lucianocasalunga&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=F7931A&text_color=ffffff&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianocasalunga&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=ffffff&langs_count=8" width="49%" alt="Top Languages" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucianocasalunga&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=F7931A&text_color=ffffff&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucianocasalunga&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=ffffff&langs_count=8" width="49%" alt="Top Languages" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucianocasalunga&theme=react-dark&hide_border=true&bg_color=0D1117&color=8B5CF6&line=F7931A&point=ffffff" width="98%" alt="Contribution Graph" />
 
