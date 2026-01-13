@@ -75,7 +75,7 @@ const barak = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lucianocasalunga&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=F7931A&text_color=ffffff" width="100%" alt="GitHub Stats" />
+<img src="https://github-readme-stats-git-masteranirudhemmadi.vercel.app/api?username=lucianocasalunga&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=F7931A&text_color=ffffff" width="100%" alt="GitHub Stats" />
 
 </div>
 
