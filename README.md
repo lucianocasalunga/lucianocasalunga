@@ -629,11 +629,10 @@ Believe in digital freedom? Here's how you can help:
 
 ---
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=lucianocasalunga.lucianocasalunga&label=Visitors&labelColor=%238B5CF6&countColor=%23F7931A&style=for-the-badge)
 ![Profile Views](https://komarev.com/ghpvc/?username=lucianocasalunga&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS)
 
 **Built with 💜 for a freer world**
 
-<sub>Last updated: December 2025 | Made with Markdown + HTML + CSS + Lots of ☕</sub>
+<sub>Last updated: March 2026 | Made with Markdown + HTML + CSS + Lots of ☕</sub>
 
 </div>
