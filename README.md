@@ -301,20 +301,75 @@ _From Linux Sofia (1990s) to AI Sofia (2024)_
 
 ---
 
+<!-- LATEST PROJECTS SECTION -->
+<h2 align="center">🔬 Latest Projects - Pushing Nostr Forward</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🌐 Nexus Relay</h3>
+<div align="center">
+
+[![Nexus](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lucianocasalunga&repo=nexus-relay&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=F7931A)](https://github.com/lucianocasalunga/nexus-relay)
+
+**World's First Hybrid P2P Nostr Relay**
+
+![Status](https://img.shields.io/badge/Status-PRODUCTION-00C853?style=flat-square)
+![NIP](https://img.shields.io/badge/NIP--95-Author-8B5CF6?style=flat-square)
+
+`WebRTC` `P2P` `TypeScript` `NIP-95` `Redis`
+
+Clients cache and share events directly via WebRTC.
+First P2P event transfer achieved April 2026.
+
+[🔗 Live](https://nexus.libernet.app/dashboard.html) | [📜 NIP-95 PR](https://github.com/nostr-protocol/nips/pull/2293)
+
+</div>
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">📊 Feed Engine</h3>
+<div align="center">
+
+[![Feed Engine](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lucianocasalunga&repo=feed-engine&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=F7931A)](https://github.com/lucianocasalunga/feed-engine)
+
+**Algorithmic Feed Ranking for Nostr Relays**
+
+![Status](https://img.shields.io/badge/Status-PRODUCTION-00C853?style=flat-square)
+![Tests](https://img.shields.io/badge/Tests-87%2F87-00C853?style=flat-square)
+
+`Engagement` `Web of Trust` `PageRank` `Redis`
+
+Trending, Most Zapped, and Global feeds.
+Score = Engagement x WoT x Decay + PoW bonus.
+
+[📖 Docs](https://github.com/lucianocasalunga/feed-engine)
+
+</div>
+</td>
+</tr>
+</table>
+
+---
+
 <!-- EXPERIENCE SECTION -->
 <h2 align="center">💼 Professional Experience</h2>
 
 <details open>
-<summary><b>🇮🇱 Current - Israel (2017-2025)</b></summary>
+<summary><b>🇮🇱 Current - Israel (2017-Present)</b></summary>
 <br/>
 
 **Role:** Logistics + IT Manager Assistant
 **Personal Projects:** LiberNet Ecosystem, YouTube (Israel Liber)
 **Achievements:**
 - ✅ Complete reconstruction after personal tragedy
-- ✅ Creation of LiberNet ecosystem (4 production projects)
+- ✅ Creation of LiberNet ecosystem (6 production projects)
 - ✅ YouTube channel with technical content (40 years of experience)
 - ✅ Return to programming with AI assistance (Python, JavaScript, Docker)
+- ✅ Author of NIP-95: Hybrid P2P Relay Protocol for Nostr
+- ✅ Built world's first P2P Nostr relay (Nexus Relay, 2026)
+- ✅ Created Feed Engine: algorithmic ranking for Nostr relays
 
 </details>
 
