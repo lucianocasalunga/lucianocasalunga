@@ -123,8 +123,11 @@ gantt
     Embratel (Worldwide)             :2002, 2006
     School IT Manager                :2007, 2016
     section Israel
-    Immigration & Reconstruction     :2017, 2025
-    LiberNet Ecosystem               :2023, 2025
+    Immigration & Reconstruction     :2017, 2026
+    section Nostr
+    Nostr + GitHub (start)           :2021, 2026
+    LiberNet Ecosystem               :2023, 2026
+    NIP-95 / Nexus                   :2026, 2026
 ```
 
 <table>
@@ -167,6 +170,29 @@ gantt
 </td>
 </tr>
 </table>
+
+---
+
+<!-- NOSTR JOURNEY -->
+<h2 align="center">⚡ Nostr Journey (2021 - Today)</h2>
+
+I joined **Nostr in 2021**, the same year I opened this GitHub account. Since then I have been building on the protocol: relays, clients, wallets and P2P distribution for the LiberNet ecosystem.
+
+### 📜 NIPs I implemented in LiberNet
+
+I authored NIP-95 (Nexus) and implemented the other NIPs below in the LiberNet relays and clients.
+
+| NIP | Name | What it does | Spec merged into [nostr-protocol/nips](https://github.com/nostr-protocol/nips) |
+|-----|------|--------------|------|
+| [NIP-95 / NIP-NX](https://github.com/nostr-protocol/nips/pull/2293) | Hybrid P2P Relay Protocol (Nexus) | Peers cache and share events over WebRTC, relay as seed | **Author** · proposed Mar 2026, not merged; running in [nexus-peer](https://github.com/lucianocasalunga/nexus-peer) |
+| [NIP-67](https://github.com/nostr-protocol/nips/blob/master/67.md) | EOSE Completeness Hint | Tells if EOSE really means the relay sent everything | Jun 2026 |
+| [NIP-43](https://github.com/nostr-protocol/nips/blob/master/43.md) | Relay Access Metadata and Requests | Members, join requests and invites for private relays | Oct 2025 |
+| [NIP-77](https://github.com/nostr-protocol/nips/blob/master/77.md) | Negentropy Syncing | Efficient relay-to-relay and client-relay sync | May 2025 |
+| [NIP-66](https://github.com/nostr-protocol/nips/blob/master/66.md) | Relay Discovery and Liveness Monitoring | Monitors publish relay status, latency and NIPs (kind 30166) | Mar 2025 |
+| [NIP-86](https://github.com/nostr-protocol/nips/blob/master/86.md) | Relay Management API | Ban, unban, allowlist and other relay admin actions | Nov 2024 |
+| [NIP-70](https://github.com/nostr-protocol/nips/blob/master/70.md) | Protected Events | Only the author or authorized relays can store/serve the event | Jul 2024 |
+| [NIP-45](https://github.com/nostr-protocol/nips/blob/master/45.md) | Counting Results | COUNT message to count events without downloading them | Apr 2023 |
+| [NIP-50](https://github.com/nostr-protocol/nips/blob/master/50.md) | Search Capability | Full-text `search` filter in REQ | Jan 2023 |
 
 ---
 
